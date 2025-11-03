@@ -7,6 +7,7 @@ python server.py
 
 komputer ofiary:
 wrzucenie pliku *.desktop, klikniecie (po inicjalizacji połączenia na komputerze atakującego)
+
 środowisko:
 kali linux
 host only network
