@@ -7,7 +7,7 @@ from colorama import Fore, Back, Style
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-server_ip = '10.0.2.15'
+server_ip = '192.168.89.4'
 server_port = 8080
 
 identifier = '<END_OF_COMMAND_OUTPUT>'
