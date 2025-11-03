@@ -7,7 +7,7 @@ import platform
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-server_ip = '192.168.1.70'
+server_ip = '10.0.2.15'
 server_port = 8080
 
 server_address = (server_ip, server_port)
